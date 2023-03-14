@@ -1,0 +1,13 @@
+ 
+ *{
+  padding: 10px;
+  height: auto;
+  width: auto;
+ }
+ .hero-container{
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 5px solid green;
+  background-color: rgba(150, 150, 150, 0.1);
+ }
